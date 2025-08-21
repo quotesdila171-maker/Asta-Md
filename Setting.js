@@ -21,7 +21,7 @@ global.waUrl = process.env.WAURL ||"",
 global.website = '' ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || '' ;
 module.exports = {
-  sessionName: process.env.SESSION_ID || '',
+  sessionName: process.env.𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=pUxwxQqa#k4AckFynr8BMeu7J-k8XZnp8THOg1oN4XNEPrSUy2Qs || '',
   botname: process.env.BOT_NAME || 'Asta-Md',
   ownername:  process.env.OWNER_NAME || `Astro`,
   author:  process.env.PACK_AUTHER || 'Astro', 
